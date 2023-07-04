@@ -1,0 +1,29 @@
+Excel Commands
+
+BINOM.DIST(x; n; p; cumulative)
+
+NEGBINOM.DIST(num_failure; num_success; p; cumulative)
+
+POISSON.DIST(x; mean; cumulative)
+
+EXPON.DIST(x; lambda; cumulative)
+
+NORM.DIST(x; u; sigma; cumulative)
+
+NORM.S.DIST(z)
+
+NORM.INV(probability; u; sigma)
+
+NORM.S.INV(probability)
+
+CHISQ.INV(a;n)
+
+CHISQ.DIST(c;n;true)
+
+T.DIST(t;n;true)
+
+T.INV(a;n)
+
+F.DIST(f;n1;n2;true)
+
+F.INV(a;n1;n2)
